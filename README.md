@@ -18,7 +18,7 @@ This repository contains my machine learning learning and practice work using Py
 
 ## Tools & Libraries
 - Python
-- Jupyter Notebook
+- VSCode
 - NumPy
 - Pandas
 - Matplotlib
